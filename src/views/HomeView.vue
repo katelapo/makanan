@@ -24,7 +24,7 @@
 
 <template>
   <main>
-    <div>Daftar Event</div>
+    <div>Welcome to The Jungle</div>
  
  <div>
    <ul>
