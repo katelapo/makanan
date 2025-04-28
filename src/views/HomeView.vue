@@ -28,7 +28,7 @@
  
  <div>
    <ul>
-     <li v-for="event in makanan" :key="event.id">
+     <li v-for="event in events" :key="event.id">
        <div>{{ event.name }}</div>
        <div>{{ event.place }}</div>
        <div>{{ event.time }}</div>
