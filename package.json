@@ -11,22 +11,22 @@
     "type-check": "vue-tsc --build"
   },
   "dependencies": {
-    "pinia": "^3.0.1",
+    "pinia": "^3.0.2",
     "vue": "^3.5.13",
-    "vue-router": "^4.5.0"
+    "vue-router": "^4.5.1"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "^0.1.9",
-    "@cloudflare/workers-types": "^4.20250303.0",
+    "@cloudflare/vite-plugin": "^0.1.21",
+    "@cloudflare/workers-types": "^4.20250428.0",
     "@tsconfig/node22": "^22.0.1",
-    "@types/node": "^22.14.0",
+    "@types/node": "^22.15.3",
     "@vitejs/plugin-vue": "^5.2.3",
     "@vue/tsconfig": "^0.7.0",
     "npm-run-all2": "^7.0.2",
-    "typescript": "~5.8.0",
-    "vite": "^6.2.4",
-    "vite-plugin-vue-devtools": "^7.7.2",
-    "vue-tsc": "^2.2.8",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.3",
+    "vite-plugin-vue-devtools": "^7.7.6",
+    "vue-tsc": "^2.2.10",
     "wrangler": "^4.13.2"
   }
 }
