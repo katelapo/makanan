@@ -16,17 +16,17 @@
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "^1.0.12",
-    "@cloudflare/workers-types": "^4.20250429.0",
+    "@cloudflare/vite-plugin": "^1.0.13",
+    "@cloudflare/workers-types": "^4.20250430.0",
     "@tsconfig/node22": "^22.0.1",
     "@types/node": "^22.15.3",
     "@vitejs/plugin-vue": "^5.2.3",
     "@vue/tsconfig": "^0.7.0",
     "npm-run-all2": "^7.0.2",
     "typescript": "~5.8.3",
-    "vite": "^6.3.3",
+    "vite": "^6.3.4",
     "vite-plugin-vue-devtools": "^7.7.6",
     "vue-tsc": "^2.2.10",
-    "wrangler": "^4.13.2"
+    "wrangler": "^4.14.0"
   }
 }
