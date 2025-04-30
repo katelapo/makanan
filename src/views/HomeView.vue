@@ -11,7 +11,7 @@
  const events = ref<Event[]>([])
  
  const fetchEvents = async () => {
-   const response = await fetch('/api/makanan')
+   const response = await fetch('/api/index.ts')
    const data = await response.json()
    events.value = data
  }

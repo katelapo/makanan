@@ -6,7 +6,7 @@ interface Env {
     fetch(request, env) {
       const url = new URL(request.url);
   
-      if (url.pathname.startsWith("/api/makanan")) {
+      if (url.pathname.startsWith("/api/index.ts")) {
         return Response.json([
           
         ]);
