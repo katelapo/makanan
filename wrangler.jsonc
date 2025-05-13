@@ -9,7 +9,7 @@
 "d1_databases": [
   {
     "binding": "DB",
-    "database_name": "EVENT_MANAGER",
+    "database_name": "makanan",
     "database_id": "53edcc47-a87f-4b3f-9a5a-bde6f2467e11"
   }
 ]
